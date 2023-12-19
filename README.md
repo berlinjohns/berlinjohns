@@ -30,6 +30,6 @@ Feel free to connect with me on:
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=berlinjohns&count_private=true&show_icons=true&theme=dark)](https://github.com/berlinjohns/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀

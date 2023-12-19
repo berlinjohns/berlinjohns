@@ -26,7 +26,7 @@ I am always eager to learn and explore new technologies. Currently, I am diving 
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- [LinkedIn](https://www.linkedin.com/in/berlinjohns)
 
 ## 📊 GitHub Stats
 

@@ -21,15 +21,14 @@ I'm a passionate software developer with expertise in Angular and React. I love 
 I am always eager to learn and explore new technologies. Currently, I am diving deeper into:
 
 - **State Management in Angular**: Enhancing my skills in state management libraries like NgRx.
+- **Optimization**: Currently learning and implementing optimization techniques for Angular applications.
+- **Micro Frontends**: Exploring micro frontend architecture for scalable and maintainable applications.
+- **Angular Signals**: Diving into Angular Signals for effective communication between components.
 
 ## 📫 Let's Connect
 
 Feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/berlinjohns)
-
-## 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=berlinjohns&count_private=true&show_icons=true&theme=dark)](https://github.com/berlinjohns/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀

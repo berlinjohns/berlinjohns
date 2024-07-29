@@ -12,8 +12,8 @@ I'm a passionate software developer with expertise in Angular and React. I love 
 ## 🛠️ Technologies
 
 - **Frontend**: Angular, React, HTML5, CSS3, Bootstrap
-- **Backend**: Node.js, Express (basic knowledge)
-- **Database**: MongoDB (basic knowledge)
+- **Backend**: Node.js, Express,Nest.js
+- **Database**: MongoDB
 - **Version Control**: Git, GitHub
 
 ## 🌱 Learning

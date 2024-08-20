@@ -38,6 +38,26 @@ A service application providing fast and reliable AC and fridge repairs.
 - **Live URL**: [Visit Aliya Service](https://aliyaservice.netlify.app/)
 - **Status**: OpenSource (Public Repository)
 
+### [PetsZone](https://ngpetszone.netlify.app/)
+A pet selling platform where users can browse and purchase pets, accessories, and medicines.
+
+- **Features**: Reusable components, payment gateway, responsive design, dark/light mode, optimized with OnPush change detection and lazy loading.
+- **Technologies Used**: Angular 17, Tailwind CSS, Firebase, Express.js with TypeScript
+- **Live URL**: [Visit PetsZone](https://ngpetszone.netlify.app/)
+- **Status**: Closed source (To avoid misuse of the codebase)
+- **Note**: 
+  - The server is running on Render's free tier, so it may take up to 2 minutes for the first API call. After that, it works rapidly.
+  - If you’re interested in the project, feel free to [schedule a meeting](mailto:berlinjohns78@gmail.com) to discuss and view the codebase.
+- **Upcoming Features**: Pagination, live chat, upgrading to Angular 18, bug fixes.
+
+### [Portfolio](https://berlinjohns.github.io/my-portfolio/)
+A personal portfolio app created during my college days using React 16. This app showcases my projects, skills, and experience.
+
+- **Features**: Interactive UI, project showcase, contact form.
+- **Technologies Used**: React 16, MaterialUI, JavaScript
+- **Status**: Ongoing maintenance
+- **Plans**: Planning to upgrade the app or create a new portfolio with the latest technologies.
+- **Repository**: [Repo](https://github.com/berlinjohns/my-portfolio).
 
 
 ## 📫 Let's Connect

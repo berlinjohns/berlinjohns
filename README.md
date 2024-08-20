@@ -25,6 +25,21 @@ I am always eager to learn and explore new technologies. Currently, I am diving 
 - **Micro Frontends**: Exploring micro frontend architecture for scalable and maintainable applications.
 - **Angular Signals**: Diving into Angular Signals for effective communication between components.
 
+## 🛠️ Projects
+
+### [Aliya Service](https://aliyaservice.netlify.app/)
+A service application providing fast and reliable AC and fridge repairs.
+
+- **Features**: Real-time booking, service tracking, reselling product.
+- **Technologies Used**: Angular 17 (Frontend), Nest.js (Backend), MongoDB
+- **Repositories**:
+  - [Frontend Repository](https://github.com/berlinjohns/aliya-service-frontend)
+  - [Backend Repository](https://github.com/berlinjohns/aliya-service-backend)
+- **Live URL**: [Visit Aliya Service](https://aliyaservice.netlify.app/)
+- **Status**: OpenSource (Public Repository)
+
+
+
 ## 📫 Let's Connect
 
 Feel free to connect with me on:

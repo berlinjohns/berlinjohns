@@ -53,11 +53,11 @@ A pet selling platform where users can browse and purchase pets, accessories, an
 ### [Portfolio](https://berlinjohns.github.io/my-portfolio/)
 A personal portfolio app created during my college days using React 16. This app showcases my projects, skills, and experience.
 
-- **Features**: Interactive UI, project showcase, contact form.
+- **Features**: Interactive UI, project showcase.
 - **Technologies Used**: React 16, MaterialUI, JavaScript
 - **Status**: Ongoing maintenance
 - **Plans**: Planning to upgrade the app or create a new portfolio with the latest technologies.
-- **Repository**: [Repo](https://github.com/berlinjohns/my-portfolio).
+- **Repository**: [Portfolio Repo](https://github.com/berlinjohns/my-portfolio).
 
 
 ## 📫 Let's Connect
